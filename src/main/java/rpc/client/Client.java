@@ -31,7 +31,7 @@ public class Client {
     }
 
     public boolean sendMessage(Object messasgeBody, InetSocketAddress address){
-        // TODO: 17-5-26 远程连接 
+        // TODO: 17-5-26 远程连接
 
         return false;
     }
